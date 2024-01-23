@@ -1,0 +1,3 @@
+I am vishnu vardhan
+This is my first text file in git.
+I am using the concept of git stash.
